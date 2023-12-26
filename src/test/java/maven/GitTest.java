@@ -11,5 +11,7 @@ public class GitTest {
         System.out.println("dev第4次提交");
 
         System.out.println("master分支第五次提交");
+
+        System.out.println("dev第6次提交");
     }
 }
